@@ -10,5 +10,8 @@
 2. Chromium bug
 3. crypto 投資
 
-
-![](https://i.natgeofe.com/n/a9f2b160-921d-4e01-ac8c-d45d07a18cc6/4433392.jpg)
+set personal access token
+```
+git remote set-url origin
+git remote add origin https://flameddd:[NEW TOKEN]@github.com/flameddd/2022_Raccoons.git
+```
